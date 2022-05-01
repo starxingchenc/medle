@@ -13,13 +13,13 @@ tune:
   - [7, 1]
   - [5, 2]
 
-#支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
-tuneBeatDur: 176 #上面时值的1对应时长，单位是ms
-tunePitchBase: E4 #简谱的1 对应实际的哪个音
-metronome: [0, 6] #不要改
+# 支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
+tuneBeatDur: 176 # 上面时值的1对应时长，单位是ms
+tunePitchBase: E4 # 简谱的1 对应实际的哪个音
+metronome: [0, 6] # 节拍器[ offset(ms), 几个单位时值一次节拍器 ]
 
-tuneRevealBeatDur: 176
-tuneRevealOffset: 0
+tuneRevealBeatDur: 176 # 回放时每单位时长，ms
+tuneRevealOffset: 0 # 回放offset
 
 zh-Hans:
   title: 竹取飞翔
