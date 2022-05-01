@@ -10,16 +10,16 @@ tuneBeatDur: 250
 tunePitchBase: Ab4
 metronome: [0, 4]
 
-tuneRevealBeatDur: 234 #234ms/8 = bpm128
+tuneRevealBeatDur: 234
 tuneRevealOffset: 0
 
 zh-Hans:
-  title: 竹取飞翔
+  title: 竹取飛翔　～ Lunatic Princess
   author: ZUN
-  desc: 永夜抄
+  desc: 东方永夜抄 6B面Boss 蓬莱山辉夜主题曲
 en:
-  title: Snowflakes (雪花)
-  author: Zhang Shuai
-  desc: Theme song of the opening ceremony of the Beijing 2022 Winter Olympic Games. Recording taken from live performance at the ceremony.
+  title: 
+  author:
+  desc:
 
-curator: Ayu
+curator: xcc
