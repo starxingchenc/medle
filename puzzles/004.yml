@@ -12,11 +12,11 @@ tune:
   - [4, 2]
   - [2, 2]
 
-tuneBeatDur: 120
+tuneBeatDur: 143
 tunePitchBase: Bb3
 metronome: [0, 4]
 
-tuneRevealBeatDur: 71.5
+tuneRevealBeatDur: 143
 tuneRevealOffset: 0
 
 zh-Hans:
