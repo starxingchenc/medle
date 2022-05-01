@@ -16,7 +16,7 @@ tunePitchBase: C5
 metronome: [-2, 8]
 
 tuneRevealBeatDur: 200
-tuneRevealOffset: 1300
+tuneRevealOffset: 7500
 
 zh-Hans:
   title: 蠢蠢的秋月　～ Mooned Insect
