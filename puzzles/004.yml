@@ -12,21 +12,20 @@ tune:
   - [4, 2]
   - [2, 2]
 
-#支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
-tuneBeatDur: 176 #上面时值的1对应时长，单位是ms
-tunePitchBase: Bb3 #简谱的1 对应实际的哪个音
-metronome: [0, 4] #不要改
+tuneBeatDur: 120
+tunePitchBase: Bb3
+metronome: [0, 4]
 
-tuneRevealBeatDur: 200
-tuneRevealOffset: 3085
+tuneRevealBeatDur: 71.5
+tuneRevealOffset: 0
 
 zh-Hans:
-  title: 114514
-  author: 野兽先辈
-  desc: 
+  title: Grievous Lady
+  author: Team Grimoire / Laur
+  desc:
 en:
-  title: Snowflakes (雪花)
-  author: Zhang Shuai
-  desc: Theme song of the opening ceremony of the Beijing 2022 Winter Olympic Games. Recording taken from live performance at the ceremony.
+  title:
+  author:
+  desc:
 
 curator: xcc
