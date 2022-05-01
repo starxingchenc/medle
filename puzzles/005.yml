@@ -1,0 +1,28 @@
+tune:
+  - [3, 2]
+  - [5, 2]
+  - [6, 2]
+  - [6, 2]
+  - [7, 2]
+  - [3, 1]
+  - [7, 1]
+  - [1+, 2]
+  - [6, 2]
+
+tuneBeatDur: 182
+tunePitchBase: C4
+metronome: [0, 4]
+
+tuneRevealBeatDur: 182
+tuneRevealOffset: 3085
+
+zh-Hans:
+  title: Conflict
+  author: 
+  desc: 
+en:
+  title: Snowflakes (雪花)
+  author: Zhang Shuai
+  desc: Theme song of the opening ceremony of the Beijing 2022 Winter Olympic Games. Recording taken from live performance at the ceremony.
+
+curator: xcc
