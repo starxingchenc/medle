@@ -13,7 +13,7 @@ tune:
 
 #支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
 tuneBeatDur: 200 #上面时值的1对应时长，单位是ms
-tunePitchBase: E#4 #简谱的1 对应实际的哪个音
+tunePitchBase: G#4 #简谱的1 对应实际的哪个音
 metronome: [0, 4] #不要改
 
 tuneRevealBeatDur: 208

@@ -689,7 +689,7 @@ const puzzleLink = (index) => {
   const a = document.createElement('a');
   a.classList.add('puzzle-link');
   const id = index.toString().padStart(3, '0');
-  const date = new Date('2022-02-21');
+  const date = new Date('2022-04-16');
   date.setDate(date.getDate() + (index - 1));
   a.innerHTML =
     date.getFullYear() + '.' +
