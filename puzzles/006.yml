@@ -8,7 +8,7 @@ tune:
   - [1+, 1]
   - [7, 2]
 
-tuneBeatDur: 200
+tuneBeatDur: 375
 tunePitchBase: Ab4
 metronome: [0, 4]
 
