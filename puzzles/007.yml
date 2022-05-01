@@ -14,7 +14,7 @@ tune:
   - [3, 1]
 tuneBeatDur: 111.11
 tunePitchBase: C5
-metronome: [0, 3]
+metronome: [0, 6]
 
 tuneRevealBeatDur: 111.11
 tuneRevealOffset: 1300
