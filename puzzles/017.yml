@@ -1,0 +1,29 @@
+tune:
+  - [4#, 1]
+  - [5#, 1]
+  - [6, 2]
+  - [1+, 1]
+  - [2+, 1]
+  - [7, 3]
+  - [5, 1]
+  - [6, 1]
+  - [5, 1]
+  - [2, 2]
+  - [3, 4]
+tuneBeatDur: 193
+tunePitchBase: C#4
+metronome: [-2, 4]
+
+tuneRevealBeatDur: 193
+tuneRevealOffset: 7400
+
+zh-Hans:
+  title: 明日之盛，昨日之俗
+  author: ZUN
+  desc: 东方风神录 Extra面主题曲
+en:
+  title: Tomorrow is Special; Yesterday Was Not
+  author: ZUN
+  desc: Extra Stage theme, from 東方風神録　～ Mountain of Faith
+
+curator: sm
