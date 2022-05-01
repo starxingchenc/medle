@@ -1,26 +1,32 @@
 tune:
-  - [5, 6]
-  - [2+, 2]
-  - [1+, 4]
-  - [7, 3]
-  - [6, 1]
+  - [1, 1]
+  - [1, 1]
+  - [4, 2]
   - [5, 1]
-  - [4, 1]
-  - [5, 6]
-tuneBeatDur: 260
-tunePitchBase: F3
-metronome: [0, 6]
+  - [1, 1]
+  - [4, 2]
+  - [1, 1]
+  - [1, 1]
+  - [4, 2]
+  - [5, 1]
+  - [1, 1]
+  - [4, 2]
 
-tuneRevealBeatDur: 384
-tuneRevealOffset: 2426
+#支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
+tuneBeatDur: 176 #上面时值的1对应时长，单位是ms
+tunePitchBase: C4 #简谱的1 对应实际的哪个音
+metronome: [0, 6] #不要改
+
+tuneRevealBeatDur: 200
+tuneRevealOffset: 3085
 
 zh-Hans:
-  title: 月河（Moon River）
-  author: Henry Mancini（曲）；Johnny Mercer（词）；Audrey Hepburn（演唱）
-  desc: 1961 年电影《蒂凡尼的早餐》插曲。
+  title: 114514
+  author: 野兽先辈
+  desc: 
 en:
-  title: Moon River
-  author: Henry Mancini (music); Johnny Mercer (lyrics); Audrey Hepburn (performance)
-  desc: A song from the 1961 film "Breakfast at Tiffany's".
+  title: Snowflakes (雪花)
+  author: Zhang Shuai
+  desc: Theme song of the opening ceremony of the Beijing 2022 Winter Olympic Games. Recording taken from live performance at the ceremony.
 
-curator: Ayu
+curator: xcc
