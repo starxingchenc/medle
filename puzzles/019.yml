@@ -1,0 +1,30 @@
+tune:
+  - [3, 1]
+  - [6, 2]
+  - [6, 2]
+  - [5, 1.5]
+  - [3, 1.5]
+  - [2, 2]
+  - [2, 1]
+  - [2, 1]
+  - [1, 1]
+  - [2, 1.5]
+  - [3, 1.5]
+  - [1, 1]
+tuneBeatDur: 164.83
+tunePitchBase: B5
+metronome: [1, 4]
+
+tuneRevealBeatDur: 164.83
+tuneRevealOffset: 5678
+
+zh-Hans:
+  title: Telecaster B-Boy
+  author: Surii
+  desc: Surii - Telecaster B-Boy ft. Kagamine Ren
+en:
+  title: Telecaster B-Boy
+  author: Surii
+  desc: Surii - Telecaster B-Boy ft. Kagamine Ren
+
+curator: sm
