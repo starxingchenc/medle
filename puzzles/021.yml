@@ -1,0 +1,30 @@
+tune:
+  - [6, 1]
+  - [6, 1]
+  - [7, 1]
+  - [1+, 1]
+  - [7, 1]
+  - [6, 1]
+  - [5, 1]
+  - [6, 2]
+  - [1+, 2]
+  - [7, 2]
+  - [5#, 2]
+  - [6, 4]
+tuneBeatDur: 176.47
+tunePitchBase: B3
+metronome: [3, 4]
+
+tuneRevealBeatDur: 176.47
+tuneRevealOffset: 9600
+
+zh-Hans:
+  title: 再见宣言
+  author: Chinozo
+  desc: Chinozo - 再见宣言 ft. FloweR
+en:
+  title: Goodble Declaration
+  author: Chinozo
+  desc: Chinozo - Goodble Declaration ft. FloweR
+
+curator: sm
