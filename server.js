@@ -9,7 +9,7 @@ const log = (msg) => {
 };
 const debug = (Deno.env.get('DEBUG') === '1');
 
-const epoch = new Date('2022-02-20T16:00:00Z');
+const epoch = new Date('2022-04-15T16:00:00Z');
 const todaysPuzzleIndex = () => Math.ceil((new Date() - epoch) / 86400000);
 const todaysPuzzle = () => todaysPuzzleIndex().toString().padStart(3, '0');
 
