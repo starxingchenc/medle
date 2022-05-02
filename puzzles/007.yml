@@ -17,7 +17,7 @@ tunePitchBase: C5
 metronome: [0, 3]
 
 tuneRevealBeatDur: 111.11
-tuneRevealOffset: 1333.33
+tuneRevealOffset: 1650
 
 zh-Hans:
   title: Altale
