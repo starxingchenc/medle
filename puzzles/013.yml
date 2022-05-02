@@ -19,7 +19,7 @@ tune:
   - [1+, 1]
   - [1+, 4]
 tuneBeatDur: 188
-tunePitchBase: A4
+tunePitchBase: G4
 metronome: [0, 2]
 
 tuneRevealBeatDur: 188

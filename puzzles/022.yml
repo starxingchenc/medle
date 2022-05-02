@@ -1,0 +1,30 @@
+tune:
+  - [3, 1]
+  - [6, 1]
+  - [7, 1]
+  - [1+, 3]
+  - [2+, 1]
+  - [7, 1]
+  - [1+, 1]
+  - [7, 1]
+  - [5, 1]
+  - [2, 1]
+  - [3, 1]
+  - [6-, 3]
+tuneBeatDur: 176.47
+tunePitchBase: G4
+metronome: [3, 4]
+
+tuneRevealBeatDur: 176.47
+tuneRevealOffset: 12265
+
+zh-Hans:
+  title: 会受稻田姬的斥责啦
+  author: ZUN
+  desc: 东方风神录 1面Boss 秋穰子主题曲
+en:
+  title: Because Princess Inada Is Scolding Me
+  author: ZUN
+  desc: Stage 1 Boss - Minoriko Aki's theme, from 東方風神録　～ Mountain of Faith
+
+curator: sm
