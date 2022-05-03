@@ -102,7 +102,7 @@ const servePuzzle = async(req, puzzleId, checkToday) => {
     puzzleContents.tunePitchBase = midiPitch(puzzleContents.tunePitchBase);
 
     const i18n = {};
-    for (const lang of['zh-Hans', 'en']) {
+    for (const lang of['zh-Hans', 'zh-Hant', 'en']) {
         const langContents = puzzleContents[lang];
         i18n[lang] = langContents;
     }
