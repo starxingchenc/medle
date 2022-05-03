@@ -1,0 +1,34 @@
+tune:
+  - [3, 0.5]
+  - [2, 0.5]
+  - [1, 0.5]
+  - [7-, 0.5]
+  - [1, 2]
+  - [1, 1]
+  - [3, 1]
+  - [5, 1]
+  - [1, 1]
+  - [1, 1]
+  - [1, 1]
+  - [2, 1]
+  - [3, 1]
+  - [2, 1]
+  - [1, 1]
+  - [1, 2]
+tuneBeatDur: 250
+tunePitchBase: A#4
+metronome: [2, 4]
+
+tuneRevealBeatDur: 250
+tuneRevealOffset: 7171
+
+zh-Hans:
+  title: 海百合海底谭
+  author: n-buna
+  desc: bokufa bokufa bokufa
+en:
+  title: Umiyuri Kaiteitan
+  author: n-buna
+  desc: bokufa bokufa bokufa
+
+curator: SomeyaMako
