@@ -144,8 +144,8 @@ const handler = async (req) => {
     // Custom puzzle
     if (url.pathname.match(/^\/[A-Za-z0-9]+$/g)) {
       const puzzleId = url.pathname.substring(1);
-      if (!debug && parseInt(puzzleId) > todaysPuzzleIndex())
-        return noSuchPuzzle();
+    //  if (!debug && parseInt(puzzleId) > todaysPuzzleIndex())
+    //    return noSuchPuzzle();
       return servePuzzle(req, puzzleId, url.search !== '?past');
     }
   } else if (req.method === 'POST') {
