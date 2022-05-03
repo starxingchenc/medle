@@ -19,7 +19,7 @@ tunePitchBase: F#4
 metronome: [3, 4]
 
 tuneRevealBeatDur: 214.28
-tuneRevealOffset: 0
+tuneRevealOffset: 6348
 
 zh-Hans:
   title: 消极进化论
