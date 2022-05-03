@@ -1,32 +1,34 @@
 tune:
-  - [1, 1]
-  - [1, 1]
-  - [4, 2]
+  - [1+, 1]
+  - [7, 1]
+  - [6, 3]
   - [5, 1]
-  - [1, 1]
-  - [4, 2]
-  - [1, 1]
-  - [1, 1]
-  - [4, 2]
+  - [5, 3]
   - [5, 1]
-  - [1, 1]
-  - [4, 2]
+  - [2+, 2]
+  - [2+, 1]
+  - [3+, 1]
+  - [3+, 1]
+  - [2+, 1]
+  - [2+, 1]
+  - [1+, 1]
+  - [1+, 2]
 
 #支持的格式：1, 1+, 1b, 1#, 1b+, 1#+, 1b-, 1#-
-tuneBeatDur: 176 #上面时值的1对应时长，单位是ms
-tunePitchBase: C4 #简谱的1 对应实际的哪个音
-metronome: [0, 6] #不要改
+tuneBeatDur: 250 #上面时值的1对应时长，单位是ms
+tunePitchBase: C#5 #简谱的1 对应实际的哪个音
+metronome: [2, 4] #不要改
 
-tuneRevealBeatDur: 200
-tuneRevealOffset: 3085
+tuneRevealBeatDur: 250
+tuneRevealOffset: 8000
 
 zh-Hans:
-  title: 114514
-  author: 野兽先辈
+  title: 月兔回旋于空中
+  author: Orangestar
   desc: 
 en:
-  title: 114514
-  author: Yajuu Senpai
+  title: Sky Passing Around, Moon Rabbit
+  author: Orangestar
   desc: 
 
-curator: xcc
+curator: sm
