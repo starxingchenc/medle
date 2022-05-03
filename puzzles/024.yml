@@ -1,0 +1,35 @@
+tune:
+  - [3-, 1] # ゆ
+  - [3-, 3] # れ
+  - [3,  1] # る
+  - [3,  3] # れっ
+  - [2,  1] # しゃ
+  - [3-, 3] # に
+  - [3-, 1] # み
+  - [2,  3] # を
+  - [2,  1] # ま
+  - [2,  3] # か
+  - [2,  1] # せ
+  - [2,  2] # て
+  - [2,  2] # ほ
+  - [2,  2] # しい
+  - [1,  1] # か
+  - [7-, 1] # ら
+
+tuneBeatDur: 204.08
+tunePitchBase: G5
+metronome: [-2, 8]
+
+tuneRevealBeatDur: 204.08
+tuneRevealOffset: 23248
+
+zh-Hans:
+  title: Lagtrain
+  author: 稻叶昙
+  desc: 稻叶昙 - Lagtrain (Vo. 歌爱雪)
+en:
+  title: Lagtrain
+  author: inabakumori
+  desc: inabakumori - Lagtrain (Vo. Kaai Yuki)
+
+curator: SomeyaMako
