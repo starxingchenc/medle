@@ -14,15 +14,19 @@ tunePitchBase: C4
 metronome: [0, 2]
 
 tuneRevealBeatDur: 250
-tuneRevealOffset: 0
+tuneRevealOffset: 4702
 
 zh-Hans:
   title: 永远的春梦
   author: ZUN
-  desc: 东方绀珠传 4面BOSS 哆来咪·苏伊特主题曲、
+  desc: 东方绀珠传 4面BOSS 哆来咪·苏伊特主题曲
+zh-Hant:
+  title: 永遠的春夢
+  author: ZUN
+  desc: 東方紺珠傳 4面BOSS 哆唻咪·蘇伊特主題曲
 en:
-  title:
-  author:
-  desc:
+  title: Eternal Spring Dream
+  author: ZUN
+  desc: Stage 3 boss - Doremy Sweet's theme, from 東方紺珠伝　～ Legacy of Lunatic Kingdom
 
 curator: starxcc
