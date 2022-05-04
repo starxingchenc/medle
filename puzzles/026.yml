@@ -21,7 +21,7 @@ tunePitchBase: C3
 metronome: [4, 4]
 
 tuneRevealBeatDur: 394.76
-tuneRevealOffset: 5000
+tuneRevealOffset: 7000
 
 zh-Hans:
   title: Imagine
