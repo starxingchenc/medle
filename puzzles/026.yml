@@ -1,0 +1,39 @@
+tune:
+  - [3, 1]
+  - [1, 1]
+  - [3, 1]
+  - [1, 1]
+  - [3, 1]
+  - [1, 1]
+  - [7, 1]
+  - [1, 1]
+  - [6, 1]
+  - [1, 1]
+  - [6, 1]
+  - [1, 1]
+  - [6, 1]
+  - [1, 1]
+  - [6, 0.6]
+  - [6#, 0.6]
+  - [7, 0.6]
+tuneBeatDur: 394.76
+tunePitchBase: C3
+metronome: [4, 4]
+
+tuneRevealBeatDur: 394.76
+tuneRevealOffset: 5000
+
+zh-Hans:
+  title: Imagine
+  author: 约翰列侬
+  desc: 约翰列侬的代表性作品
+zh-Hant:
+  title: Imagine
+  author: 約翰·藍儂
+  desc: 
+en:
+  title: Imagine
+  author: John Lennon
+  desc: 
+
+curator: ustze
