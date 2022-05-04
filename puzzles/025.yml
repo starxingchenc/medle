@@ -9,11 +9,11 @@ tune:
   - [5+, 2]
   - [3+, 6]
 
-tuneBeatDur: 250
+tuneBeatDur: 167.59
 tunePitchBase: C4
 metronome: [0, 2]
 
-tuneRevealBeatDur: 250
+tuneRevealBeatDur: 167.59
 tuneRevealOffset: 4702
 
 zh-Hans:
