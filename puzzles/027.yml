@@ -1,0 +1,37 @@
+tune:
+  - [6, 1]
+  - [6+, 1]
+  - [3, 1]
+  - [3+, 1]
+  - [2, 1]
+  - [2+, 1]
+  - [1, 1]
+  - [1+, 1]
+  - [6-, 1]
+  - [6, 1]
+  - [1, 1]
+  - [1+, 1]
+  - [2, 1]
+  - [2+, 1]
+  - [3, 1]
+  - [3+, 1]
+tuneBeatDur: 214.28
+tunePitchBase: F4
+metronome: [0, 4]
+
+tuneRevealBeatDur: 214.28
+tuneRevealOffset: 6886
+zh-Hans:
+  title: Player's Score
+  author: ZUN
+  desc: 十年疮痍，感谢有你
+zh-Hant:
+  title: Player's Score
+  author: ZUN
+  desc: 十年瘡痍，感謝有你
+en:
+  title: Player's Score
+  author: ZUN
+  desc: Score theme from 東方風神録　～ Mountain of Faith
+
+curator: SomeyaMako
