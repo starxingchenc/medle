@@ -1,0 +1,31 @@
+tune:
+  - [3, 3]
+  - [2, 1]
+  - [3, 4]
+  - [3, 1]
+  - [1+, 1]
+  - [7, 1]
+  - [3, 1]
+  - [2, 1]
+  - [1, 1]
+  - [3, 2]
+tuneBeatDur: 200
+tunePitchBase: B4
+metronome: [0, 4]
+
+tuneRevealBeatDur: 200
+tuneRevealOffset: 10000
+zh-Hans:
+  title: 太阳系DISCO
+  author: Nayutan星人
+  desc: Nayutan星人 - 太阳系DISCO
+zh-Hant:
+  title: 太陽系DISCO
+  author: Nayutan星人
+  desc: Nayutan星人 - 太陽系DISCO
+en:
+  title: Solar System Disco
+  author: NayutalieN
+  desc: NayutalieN - Solar System Disco (ft. Hatsune Miku)
+
+curator: SomeyaMako

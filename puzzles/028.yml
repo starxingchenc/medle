@@ -1,0 +1,30 @@
+tune:
+  - [6, 3]
+  - [7, 6]
+  - [6, 6]
+  - [5, 6]
+  - [2, 6]
+  - [4, 4]
+  - [4, 4]
+  - [4, 4]
+  - [3, 6]
+tuneBeatDur: 62.5
+tunePitchBase: F4
+metronome: [3, 12]
+
+tuneRevealBeatDur: 62.5
+tuneRevealOffset: 15365
+zh-Hans:
+  title: 即使风的踪迹无尽
+  author: 少女分形
+  desc: 原曲：信仰是为了虚幻之人
+zh-Hant:
+  title: 即使風的蹤跡無盡
+  author: 少女分形
+  desc: 原曲：信仰是為了虛幻之人
+en:
+  title: Even the Endless Wind's Trajectory
+  author: Shoujo Fractal
+  desc: arrangement by HiZuMi, lyrics by Kamase-tora, vocal by Amamiya Miya, guitar by ikuo, originated from Faith Is for the Transient People
+
+curator: SomeyaMako
