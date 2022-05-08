@@ -1,0 +1,43 @@
+tune:
+  - [6-, 2]
+  - [7-, 2]
+  - [1, 2]
+  - [2, 2]
+  - [3, 2]
+  - [5, 2]
+  - [7-, 2]
+tuneBeatDur: 194.8
+tunePitchBase: F4
+metronome: [0, 4]
+
+tuneRevealBeatDur: 194.8
+tuneRevealOffset: 8192
+zh-Hans:
+  title: 竹之花
+  author: RD-Sounds
+  desc: |-
+    遠くに消える
+    そのかげに、
+    目が滲む。
+    彼方去りゆくは
+    愛人
+zh-Hant:
+  title: 竹之花
+  author: RD-Sounds
+  desc: |-
+    遠くに消える
+    そのかげに、
+    目が滲む。
+    彼方去りゆくは
+    愛人
+en:
+  title: Take no hana
+  author: RD-Sounds
+  desc: |-
+    遠くに消える
+    そのかげに、
+    目が滲む。
+    彼方去りゆくは
+    愛人
+
+curator: SomeyaMako

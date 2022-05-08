@@ -1,0 +1,29 @@
+tune:
+  - [6, 1]
+  - [3, 1]
+  - [6, 1]
+  - [2, 1]
+  - [6, 1]
+  - [1, 1]
+  - [7-, 1]
+  - [5, 1]
+tuneBeatDur: 189.87
+tunePitchBase: D#5
+metronome: [-4, 0.5] #煤气灶
+
+tuneRevealBeatDur: 189.87
+tuneRevealOffset: 6856
+zh-Hans:
+  title: Desire Drive
+  author: ZUN
+  desc: 记得在设置里面打开节拍提示！
+zh-Hant:
+  title: Desire Drive
+  author: ZUN
+  desc: 記得在設置裏面打開節拍提示！
+en:
+  title: Desire Drive
+  author: ZUN
+  desc: Remember to turn on the Metronome in settings!
+
+curator: SomeyaMako
